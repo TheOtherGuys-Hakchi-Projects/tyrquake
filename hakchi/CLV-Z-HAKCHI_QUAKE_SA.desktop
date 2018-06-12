@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/sh /usr/share/games/CLV-Z-HAKCHI_QUAKE_SA/hakchi_quake_SA.sh
+Path=/var/lib/clover/profiles/0/CLV-Z-HAKCHI_QUAKE_SA
+Name=Hakchi Quake (standalone)
+Icon=/var/games/CLV-Z-HAKCHI_QUAKE_SA/CLV-Z-HAKCHI_QUAKE_SA.png
+
+[X-CLOVER Game]
+Code=CLV-Z-HAKCHI_QUAKE_SA
+TestID=777
+ID=0
+Players=1
+Simultaneous=0
+ReleaseDate=2018-01-01
+SaveCount=0
+SortRawTitle=_hakchi quake sa
+SortRawPublisher=SWINGFLIP
+Copyright=Swingflip 2018
